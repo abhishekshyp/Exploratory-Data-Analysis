@@ -29,7 +29,7 @@ In this project we will be analysing Players Dataset of Indian Premier League(IP
 ### Left Hand vs Right Hand batting ratio?
 <img src="https://1.bp.blogspot.com/-Kcov2RPuUGY/YLJUDIKg_PI/AAAAAAAAENw/Uy4ZSePFRcEJp0Xl75DzBDG6miZ_RlJNACLcBGAsYHQ/w640-h600/Batting%2Bhand%2Bof%2Bplayeers.png" alt="IPL data analysis of players dataset using python">
 
-### Bowling skills of playeers?
+### Bowling skills of players?
 <img src="https://1.bp.blogspot.com/-gXjNc6CezTA/YLJUDPa-bQI/AAAAAAAAENo/OQZCtzHke24ucqEguFf00z77MDkfRQl1QCLcBGAsYHQ/w640-h352/Different%2Btypes%2Bof%2Bbowling%2Bskills%2Bof%2Bplayers.png" alt="IPL data analysis of players dataset using python">
 
 # Contact
