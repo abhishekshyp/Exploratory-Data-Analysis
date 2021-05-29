@@ -1,4 +1,4 @@
-# IPL Data Analysis - Matches Dataset - Project
+# IPL Data Analysis - Players Dataset - Project
 In this project we will be analysing Players Dataset of Indian Premier League(IPL). We will begin with reading the players dataset, cleaning the data, and performing exploratory data analysis.
 
 # Language and Libraries Used
