@@ -1,5 +1,5 @@
-# IPL Data Analysis - Players Dataset - Project
-In this project we will be analysing Players Dataset of Indian Premier League(IPL). We will begin with reading the players dataset, cleaning the data, and performing exploratory data analysis.
+# IPL Data Analysis - Deliveries Dataset - Project
+In this project we will be analysing Deliveries Dataset of Indian Premier League(IPL). We will begin with reading the dataset, cleaning the data, and performing exploratory data analysis.
 
 # Language and Libraries Used
 - Python
@@ -12,25 +12,24 @@ In this project we will be analysing Players Dataset of Indian Premier League(IP
 - Link (Will Update Soon)
 
 # Project Specifications
-- Data Cleaning
-- From which country most of the IPL players belongs?
-- Left Hand Vs Right Hand Batting Ratio
-- Highest number of players with same bowling skills
-- Top 5 oldest and youngest players in IPL
-- Final Conclusion
+- Total Runs Per IPL Season
+- Teams Given target of 200+ in Ist inning and IInd inning
+- Runs scored per over by each team
+- Players caught most number of catches
+- Bowler given most number of wide runs
+- Final Conclusion of Deliveries DataFrame
 
 # Project Images
 
-### From which country most of the IPL players belongs?
-<img src="https://1.bp.blogspot.com/-08thrKegY8c/YLJUDP9IgYI/AAAAAAAAENs/L84HLmatMas45v9E8HZZauVK9boXsc22gCLcBGAsYHQ/w640-h584/Number%2Bof%2Bplayers%2Bfrom%2Beach%2Bcountry%2Bin%2BIPL%2Bincluding%2BIndia%2B-%2BBharat.png" alt="IPL data analysis of players dataset using python">
+<img src="https://1.bp.blogspot.com/-k7J0H8owztQ/YLTrldDTUgI/AAAAAAAAEPI/PRuUgPAeVdsF46wN-w8M8LIQyUKkhgYSgCLcBGAsYHQ/w640-h244/Deliveries%2B5.png" alt="IPL data analysis of deliveries dataset using python">
 
-<img src="https://1.bp.blogspot.com/-FeT_N_5Igws/YLJUELSlVHI/AAAAAAAAEN0/0Mu0-v37_HYlhpwcnQkKFJb5A8xIa0GVgCLcBGAsYHQ/w640-h516/Number%2Bof%2Bplayers%2Bfrom%2Beach%2Bcountry%2Bin%2BIPL.png" alt="IPL data analysis of players dataset using python">
+<img src="https://1.bp.blogspot.com/-Y02QYnykFyU/YLTrlP8oEII/AAAAAAAAEPE/vYr7pUOd2a4hgU9rSpkA9BHt641NhEgHQCLcBGAsYHQ/w640-h242/Deliveries%2B4.png" alt="IPL data analysis of deliveries dataset using python">
 
-### Left Hand vs Right Hand batting ratio?
-<img src="https://1.bp.blogspot.com/-Kcov2RPuUGY/YLJUDIKg_PI/AAAAAAAAENw/Uy4ZSePFRcEJp0Xl75DzBDG6miZ_RlJNACLcBGAsYHQ/w640-h600/Batting%2Bhand%2Bof%2Bplayeers.png" alt="IPL data analysis of players dataset using python">
+<img src="https://1.bp.blogspot.com/--_aoZUOyKN4/YLTrkGANRwI/AAAAAAAAEPA/RFZiXydcIfEiYndUrT8AHgYtff9Q4sLNwCLcBGAsYHQ/w640-h222/Deliveries%2B3.png" alt="IPL data analysis of deliveries dataset using python">
 
-### Bowling skills of players?
-<img src="https://1.bp.blogspot.com/-gXjNc6CezTA/YLJUDPa-bQI/AAAAAAAAENo/OQZCtzHke24ucqEguFf00z77MDkfRQl1QCLcBGAsYHQ/w640-h352/Different%2Btypes%2Bof%2Bbowling%2Bskills%2Bof%2Bplayers.png" alt="IPL data analysis of players dataset using python">
+<img src="https://1.bp.blogspot.com/-rl4KNjGBnCg/YLTrkVj34NI/AAAAAAAAEO4/7_va6-nD-dgZoAAc8eJFG8J9k4ba0jY6QCLcBGAsYHQ/w640-h236/Deliveries%2B2.png" alt="IPL data analysis of deliveries dataset using python">
+
+<img src="https://1.bp.blogspot.com/-6lPH-OonxV0/YLTrkITrLcI/AAAAAAAAEO8/Rh8ErVnLlQEAZzPsjdplyRbATWCl9XlEwCLcBGAsYHQ/w640-h228/Deliveries%2B1.png" alt="IPL data analysis of deliveries dataset using python">
 
 # Contact
 - Name: Abhishek Kashyap
