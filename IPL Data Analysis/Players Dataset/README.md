@@ -5,7 +5,7 @@ In this project we will be analysing Players Dataset of Indian Premier League(IP
 - Python
 - Numpy
 - Pandas
-- Seaborn
+- Seaborn 
 - matplotlib.pyplot
 
 # Project Explanation
